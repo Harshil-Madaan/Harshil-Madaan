@@ -1,56 +1,55 @@
-# 👋 Hello there! I'm **Harshil** — Data Wizard in the Making ✨
+# 👋 Hello, I'm **Harshil Madaan**
 
-🎯 A results-driven **Data Analytics & Business Analytics** enthusiast, dedicated to turning raw data into actionable insights that drive real-world business decisions.  
-🎓 Graduated from **Thapar University, Class of 2024**, equipped with a powerful blend of analytical thinking, technical skills, and business acumen.  
-🚀 Currently open to **full-time opportunities** in data analytics, business intelligence, and related roles — let’s make data work smarter!
+🎓 **Thapar University, Class of 2024** | 📊 Aspiring Data & Business Analyst | 💡 Insight-Driven Decision Maker
 
 ---
 
-## 🛠️ Core Skills & Technologies
+I am a results-oriented professional with a strong foundation in **data analytics, business intelligence, and technology-driven storytelling**. My mission is to transform data into meaningful insights that empower organizations to make smarter, faster, and more strategic decisions.
 
-### 📊 Data Analytics & Visualization
-- ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat) **Power BI** – Transforming datasets into compelling dashboards  
-- ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat) **Advanced Excel** – Pivot tables, Power Query, VBA magic  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python** – Pandas, NumPy, Matplotlib for end-to-end data workflows  
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) **SQL** – Writing efficient queries for complex data extraction  
-
-### 💻 Web & Data Presentation
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML** – Clean, semantic markup  
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) **CSS** – Styling data stories for web interfaces  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript** – Interactive dashboards and data apps  
+Currently, I’m actively seeking **full-time opportunities** in **Data Analytics**, **Business Intelligence**, or **Data-Driven Consulting** roles where I can leverage my analytical mindset, technical proficiency, and business acumen.
 
 ---
 
-## 🚀 Current Focus Areas
+## 💼 Core Competencies
 
-- 📈 Building visually stunning **Power BI dashboards** with real-time business data  
-- 🧮 Working on **Python data projects** for forecasting, automation & reporting  
-- 🧰 Strengthening my **portfolio** with practical business case studies  
-- 🧠 Learning **Tableau** and **Git** for collaborative data science workflows  
+### 🔍 Data Analysis & Business Intelligence
+- ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat) **Power BI** – Developing dynamic dashboards and KPI-driven visualizations  
+- ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat) **Advanced Excel** – Data modeling, automation, pivot tables, Power Query  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python** – Proficient in Pandas, NumPy, Matplotlib for data analysis and visualization  
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) **SQL** – Efficient query writing for relational database management and reporting  
+
+### 🌐 Technical & Web Proficiency
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML5** – Semantic structuring for clean web presentation  
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) **CSS3** – Styling dashboards, reports, and web layouts  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript** – Adding interactivity to data-driven front-end tools  
 
 ---
 
-## 📫 Let’s Connect!
+## 🔬 Analytical Strengths
 
-- 📧 Email: [harshilmadaan242@gmail.com](mailto:harshilmadaan242@gmail.com)  
+- **Quantitative Reasoning** – Ability to distill complex datasets into clear, actionable insights  
+- **Storytelling with Data** – Translating data narratives into business value  
+- **Business Acumen** – Aligning technical outcomes with organizational strategy  
+- **Continuous Learning** – Exploring Tableau, Git, and cloud-based data solutions to stay ahead  
+
+---
+
+## 📈 Current Focus
+
+- Building a **comprehensive portfolio** of analytics projects with real-world business impact  
+- Collaborating on **cross-functional data challenges** to deepen practical expertise  
+- Exploring **predictive analytics**, **data automation**, and **AI-driven tools**  
+
+---
+
+## 📬 Connect with Me
+
+- ✉️ Email: [harshilmadaan242@gmail.com](mailto:harshilmadaan242@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/harshil-madaan](https://www.linkedin.com/in/harshil-madaan/)  
-- 🧳 Portfolio: *Coming Soon* — Stay tuned!
+- 🌐 Portfolio: *Coming Soon*  
 
 ---
 
-## 💡 Why Me?
+> _“The goal is to turn data into information, and information into insight.”_  
+> — **Carly Fiorina**, Former CEO of HP
 
-✅ Strong foundation in **analytical problem-solving**  
-✅ Hands-on with **real-world data projects**  
-✅ Eager to **learn fast** and **deliver value from day one**  
-✅ Blending **tech + business thinking** to drive smarter decisions  
-
----
-
-
-
----
-
-<!--
-**Harshil-Madaan/Harshil-Madaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
