@@ -11,6 +11,8 @@ I'm not waiting to be told what to do. I build, optimize, and execute with inten
 
 I operate at the intersection of tech, analytics, and business—where insights aren't just pretty graphs but actual levers that move KPIs.
 
+Currently, I’m actively seeking **full-time opportunities** in the domains of **Product Management**, **Data Analytics**, and **Business Analysis** —  where I can leverage my analytical mindset, product thinking, and business acumen to drive strategic, data-informed decision-making.
+
 ---
 
 ## 💼 Core Competencies
