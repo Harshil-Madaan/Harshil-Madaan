@@ -1,7 +1,7 @@
 # 👑 Harshil Madaan
 
 🎓 Thapar University, Class of 2024  
-📊 Product Thinker • Analyst Executor • Business Strategist  
+📊 Data Analyst | Business Consultant | Powered by Product Thinking
 ⚡ I don't just analyze data—I weaponize it.
 
 ---
