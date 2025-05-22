@@ -1,4 +1,4 @@
-# 👑 Harshil Madaan
+# Harshil Madaan
 
 🎓 Thapar University, Class of 2024  
 📊 Data Analyst | Business Consultant | Powered by Product Thinking
