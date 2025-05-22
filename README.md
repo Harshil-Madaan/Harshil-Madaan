@@ -2,7 +2,6 @@
 
 🎓 Thapar University, Class of 2024  
 📊 Data Analyst | Business Consultant | Powered by Product Thinking
-⚡ I don't just analyze data—I weaponize it.
 
 ---
 
