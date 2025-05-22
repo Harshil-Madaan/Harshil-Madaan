@@ -7,7 +7,7 @@
 
 ## 🧠 Who Am I?
 
-I'm not waiting to be told what to do. I build, optimize, and execute with intent. With the **mindset of a Product Manager**, the **precision of a Data Analyst**, and the **vision of a Consultant**, I turn scattered data into strategic clarity.
+I'm not waiting to be told what to do. I build, optimize, and execute with intent. With the **mindset of a Product Manager**, the **precision of a Data Analyst**, and the **vision of a Business Consultant**, I turn scattered data into strategic clarity.
 
 I operate at the intersection of tech, analytics, and business—where insights aren't just pretty graphs but actual levers that move KPIs.
 
